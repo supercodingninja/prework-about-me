@@ -32,6 +32,15 @@ body {
     color: #ffffff;
 }
 
+.subhead-heading {
+  margin-top: -0.25em;
+  font-weight: italic;
+  font-size: 4em;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
 .details {
     max-width: 38em;
     margin-left: auto;
